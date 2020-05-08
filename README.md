@@ -2,8 +2,8 @@
   <img src="https://ik.imagekit.io/ihx2bw6u4u/logo_luxOgTN4x.svg" alt="Logo">
 </h1>
 
-<h1 align="center">
-  <img src="public/mobile-gif.gif" alt="Gif">
+<h1 align="center" width="Luan4560">
+  <img src="public/mobile.gif" alt="Gif">
 </h1>
 
 ## Indice
