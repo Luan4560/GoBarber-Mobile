@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-  <img src="https://ik.imagekit.io/ihx2bw6u4u/mobile_fvwaIFz6L.gif" alt="Gif">
+  <img src="public/mobile-gif.gif" alt="Gif">
 </h1>
 
 ## Indice
